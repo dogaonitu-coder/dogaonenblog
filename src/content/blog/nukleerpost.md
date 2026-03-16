@@ -2,7 +2,7 @@
 title: 'Nükleer Reaktörler'
 description: 'Kısa bir açıklama'
 pubDate: '2026-03-15'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/reaktorpostresim.jpg'
 ---
 
 Avrupadaki Nükleer reaktörler üzerine bir yazı yazmaya karar verdim. Aslında düşüncelerimi açmak gerekirse nükleer reaktörlerin enerjinin geleceği olduğunu düşünüyorum. Bu yüzden çok önemliler ve kesinlikle Türkiye’nin bu alanda yatırımlara devam etmesi ve daha fazla yapması gerektiğini düşünüyorum.

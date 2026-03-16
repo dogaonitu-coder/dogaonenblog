@@ -5,7 +5,7 @@ pubDate: '2026-03-15'
 heroImage: '/reaktorpostresim.jpg'
 ---
 
-Avrupadaki Nükleer reaktörler üzerine bir yazı yazmaya karar verdim. Aslında düşüncelerimi açmak gerekirse nükleer reaktörlerin enerjinin geleceği olduğunu düşünüyorum. Bu yüzden çok önemliler ve kesinlikle Türkiye’nin bu alanda yatırımlara devam etmesi ve daha fazla yapması gerektiğini düşünüyorum.
+Nükleer reaktörler üzerine bir yazı yazmaya karar verdim. Aslında düşüncelerimi açmak gerekirse nükleer reaktörlerin enerjinin geleceği olduğunu düşünüyorum. Bu yüzden çok önemliler ve kesinlikle Türkiye’nin bu alanda yatırımlara devam etmesi ve daha fazla yapması gerektiğini düşünüyorum.
 
 Peki elektrik gerçekten bu kadar önemli mi?
 Öncelikle bunları anlamak için elektriğin nasıl çalıştığını anlamam gerekti. Tam olarak atom ölçeğinde açıklamaya üşensem de ve tam ben de anlamasam da, eletrik dediğimiz şey aslında bir enerjiyi kullanarak elektrik enerijisine dönüştürmek.
